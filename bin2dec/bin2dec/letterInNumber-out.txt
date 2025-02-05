@@ -1,1 +1,0 @@
-Error: Not a digit or not a bin digit!

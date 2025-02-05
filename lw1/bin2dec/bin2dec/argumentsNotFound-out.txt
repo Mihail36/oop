@@ -1,0 +1,2 @@
+Error: Number isn't entered!
+Example of input: bin2dec.exe <число в двоичной системе>

@@ -1,0 +1,2 @@
+No files entered!
+Example: compare.exe <file1> <file2>

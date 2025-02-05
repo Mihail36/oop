@@ -1,0 +1,2 @@
+Error: 9 isn't a 0 or 1!
+Example of input: bin2dec.exe <число в двоичной системе>

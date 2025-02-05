@@ -1,0 +1,2 @@
+Error: Out of range!
+Example of input: bin2dec.exe <число в двоичной системе>

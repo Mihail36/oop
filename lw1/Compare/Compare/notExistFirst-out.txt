@@ -1,0 +1,2 @@
+The first file does not exist!
+Example: compare.exe <file1> <file2>
